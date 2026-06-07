@@ -1,0 +1,42 @@
+{
+  "name": "ultra-atom-one-dark",
+  "displayName": "Ultra Atom One Dark",
+  "description": "Custom version of the famous atom one dark, darker and more contrasted",
+  "publisher": "soyreneon",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.120.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#171A2F",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soyreneon/ultra-atom-one-dark"
+  },
+  "icon": "media/logo.png",
+  "keywords": [
+    "color-theme",
+    "dark",
+    "theme",
+    "tema",
+    "theme-tuner",
+    "colorful",
+    "vibrant",
+    "bright",
+    "colorblind"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ultra Atom One Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ultra-atom-one-dark-color-theme.json"
+      }
+    ]
+  }
+}

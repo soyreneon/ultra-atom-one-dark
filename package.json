@@ -3,15 +3,15 @@
   "displayName": "Ultra Atom One Dark",
   "description": "Custom version of the famous atom one dark, darker and more contrasted",
   "publisher": "soyreneon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.120.0"
+    "vscode": "^1.15.0"
   },
   "categories": [
     "Themes"
   ],
   "galleryBanner": {
-    "color": "#171A2F",
+    "color": "#191D25",
     "theme": "dark"
   },
   "repository": {

@@ -1,9 +1,9 @@
 {
   "name": "ultra-atom-one-dark",
-  "displayName": "Ultra Atom One Dark",
+  "displayName": "Ultra Atom Dark",
   "description": "Custom version of the famous atom one dark, darker and more contrasted",
   "publisher": "soyreneon",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.15.0"
   },
@@ -33,9 +33,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Ultra Atom One Dark",
+        "label": "Ultra Atom Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/ultra-atom-one-dark-color-theme.json"
+        "path": "./themes/ultra-atom-dark-color-theme.json"
       }
     ]
   }
